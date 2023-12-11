@@ -1,4 +1,4 @@
-![image](https://github.com/austincym/Project/assets/143730219/a55d23bb-7e9c-418b-8143-ce75706e3f14)# National Missing and Unidentified Person System
+# National Missing and Unidentified Person System
 <img width="254" alt="Screen Shot 2023-10-26 at 4 05 29 PM (1)" src="https://namus.nij.ojp.gov/sites/g/files/xyckuh336/files/images/2021-03/namus-logo-color.png">
 
 
@@ -72,7 +72,7 @@ WandB provides a suite of tools to monitor, compare, and visualize various aspec
 
 # Feature Map
 A feature map refers to the output of a layer in the network that corresponds to the presence of specific features or patterns in the input data. Each layer in a CNN consists of multiple filters or kernels, and the application of these filters to the input data results in the creation of feature maps.
-<![image](https://github.com/austincym/Project/assets/143730219/3155bf7a-6464-4de4-ac30-6967b92d5076)[Feature map](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing#scrollTo=mDMIqD-twIVd)>
+![image](https://github.com/austincym/Project/assets/143730219/3155bf7a-6464-4de4-ac30-6967b92d5076)[Feature map](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing#scrollTo=mDMIqD-twIVd)
 
 
 # Contact 
