@@ -33,7 +33,11 @@ AlexNet is a powerful convolutional neural network (CNN) that we use as a key co
 - Perform image classification
 - Enhance image recognition accuracy
 # Pose
+A pose machine, in the context of computer vision and machine learning, typically refers to a system or model designed to estimate the pose of an object or person in an image or video. Pose estimation involves determining the spatial positions of key points or joints on the object or person, capturing information about its position and orientation.
 
+
+
+Pose Machine models are effective in estimating human poses from images, providing valuable information about the body's positioning and movement, which finds applications across several domains.
 # WandB
 We integrate Weights & Biases (WandB) to streamline our model training and experimentation process. Key features of our WandB integration include:
 
