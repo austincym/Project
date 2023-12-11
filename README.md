@@ -26,12 +26,22 @@ Our data deck is a curated collection of diverse datasets containing images and 
 <img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://images.unsplash.com/photo-1461870083782-4d7b4f364728?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D&w=1000&q=80">
 
 [Data_Deck] (https://docs.google.com/presentation/d/11RWUg8SSAv8bfvosryX_T8-DEtAEd4V6R-sD0cVQQB4/edit#slide=id.p)
-# Alexnet Filters
+# AlexNet Filters
+AlexNet is a powerful convolutional neural network (CNN) that we use as a key component of our image recognition system. The AlexNet filter enables us to:
 
+- Identify unique facial features
+- Perform image classification
+- Enhance image recognition accuracy
 # Pose
 
 # WandB
+We integrate Weights & Biases (WandB) to streamline our model training and experimentation process. Key features of our WandB integration include:
 
+- Real-time monitoring of model training metrics
+- Experiment tracking for model comparison
+- Collaborative sharing of experiment results
+- Model versioning and reproducibility
 # Feature Map
 
 # Contact 
+Email- austin.cym@gmail.com
