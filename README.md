@@ -72,8 +72,7 @@ WandB provides a suite of tools to monitor, compare, and visualize various aspec
 
 # Feature Map
 A feature map refers to the output of a layer in the network that corresponds to the presence of specific features or patterns in the input data. Each layer in a CNN consists of multiple filters or kernels, and the application of these filters to the input data results in the creation of feature maps.
-<img width="903" alt="![image](https://github.com/austincym/Project/assets/143730219/3155bf7a-6464-4de4-ac30-6967b92d5076)"
-"[Feature map](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing#scrollTo=mDMIqD-twIVd)>
+<![image](https://github.com/austincym/Project/assets/143730219/3155bf7a-6464-4de4-ac30-6967b92d5076)[Feature map](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing#scrollTo=mDMIqD-twIVd)>
 
 
 # Contact 
