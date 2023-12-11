@@ -32,6 +32,24 @@ AlexNet is a powerful convolutional neural network (CNN) that we use as a key co
 - Identify unique facial features
 - Perform image classification
 - Enhance image recognition accuracy
+
+Key features of AlexNet include:
+
+Deep Architecture: AlexNet consists of eight layers, including five convolutional layers followed by three fully connected layers. This depth was considered quite deep at the time of its introduction.
+
+Rectified Linear Units (ReLU): AlexNet used the rectified linear unit activation function (ReLU) for the hidden layers. ReLU helps mitigate the vanishing gradient problem, allowing the model to converge faster during training.
+
+Overlapping Pooling: Instead of traditional non-overlapping pooling layers, AlexNet employed overlapping pooling, where the pooling regions overlap, helping to capture more spatial hierarchies in the data.
+
+Data Augmentation: To reduce overfitting and improve generalization, data augmentation techniques such as cropping and flipping were applied during training.
+
+Dropout: Dropout, a regularization technique, was introduced in the fully connected layers to prevent overfitting by randomly dropping out units during training.
+
+Local Response Normalization (LRN): LRN was used to provide local contrast normalization in the convolutional layers.
+
+Large-Scale Training: AlexNet was trained on a large-scale dataset called ImageNet, which contained millions of labeled images across thousands of categories.
+
+[Alexnet Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
 # Pose
 A pose machine, in the context of computer vision and machine learning, typically refers to a system or model designed to estimate the pose of an object or person in an image or video. Pose estimation involves determining the spatial positions of key points or joints on the object or person, capturing information about its position and orientation.
 
