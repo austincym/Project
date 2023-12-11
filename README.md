@@ -54,6 +54,7 @@ Large-Scale Training: AlexNet was trained on a large-scale dataset called ImageN
 A pose machine, in the context of computer vision and machine learning, typically refers to a system or model designed to estimate the pose of an object or person in an image or video. Pose estimation involves determining the spatial positions of key points or joints on the object or person, capturing information about its position and orientation.
 For example, in human pose estimation, a pose machine could be a model that identifies and tracks the positions of key body joints such as shoulders, elbows, hips, and knees.
 <img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://mobidev.biz/wp-content/uploads/2020/07/2d-representation-albert-einstein-body-pose.jpg">
+
 This information is valuable in finding key features for the person or people that are missing, using the different action recognition, and the different human-computer interactions that are availible.
 
 Pose Machine models are effective in estimating human poses from images, providing valuable information about the body's positioning and movement, which finds applications across several domains.
@@ -64,7 +65,16 @@ We integrate Weights & Biases (WandB) to streamline our model training and exper
 - Experiment tracking for model comparison
 - Collaborative sharing of experiment results
 - Model versioning and reproducibility
+
+WandB provides a suite of tools to monitor, compare, and visualize various aspects of the training process, making it easier to understand and optimize machine learning models.
+
+<img width="903" alt="Screen Shot 2023-11-12 at 8 39 14 PM" src="https://github.com/trich9/Company-Design/assets/143112521/8f481160-59be-4075-9fdb-946e1edb4215">
+
 # Feature Map
+A feature map refers to the output of a layer in the network that corresponds to the presence of specific features or patterns in the input data. Each layer in a CNN consists of multiple filters or kernels, and the application of these filters to the input data results in the creation of feature maps.
+
+
+[Feature map](https://colab.research.google.com/drive/11IJ27NHDdtqZASIkYMjCRH-39-Peaz3F?usp=sharing#scrollTo=mDMIqD-twIVd)
 
 # Contact 
-Email- austin.cym@gmail.com
+Email- acymerman2019@fau.edu
