@@ -25,6 +25,7 @@ Our data deck is a curated collection of diverse datasets containing images and 
 <img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://static01.nyt.com/images/2017/10/24/business/24ITINERARIES1/24ITINERARIES1-superJumbo.jpg"> 
 <img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://images.unsplash.com/photo-1461870083782-4d7b4f364728?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D&w=1000&q=80">
 
+[Data_Deck] (https://docs.google.com/presentation/d/11RWUg8SSAv8bfvosryX_T8-DEtAEd4V6R-sD0cVQQB4/edit#slide=id.p)
 # Alexnet Filters
 
 # Pose
