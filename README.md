@@ -25,7 +25,7 @@ Our data deck is a curated collection of diverse datasets containing images and 
 <img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://static01.nyt.com/images/2017/10/24/business/24ITINERARIES1/24ITINERARIES1-superJumbo.jpg"> 
 <img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://images.unsplash.com/photo-1461870083782-4d7b4f364728?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D&w=1000&q=80">
 
-[Data_Deck] (https://docs.google.com/presentation/d/11RWUg8SSAv8bfvosryX_T8-DEtAEd4V6R-sD0cVQQB4/edit#slide=id.p)
+[Data_Deck](https://docs.google.com/presentation/d/11RWUg8SSAv8bfvosryX_T8-DEtAEd4V6R-sD0cVQQB4/edit#slide=id.p)
 # AlexNet Filters
 AlexNet is a powerful convolutional neural network (CNN) that we use as a key component of our image recognition system. The AlexNet filter enables us to:
 
@@ -52,8 +52,9 @@ Large-Scale Training: AlexNet was trained on a large-scale dataset called ImageN
 [Alexnet Filters](https://colab.research.google.com/drive/16yId_Y7fSr6D89m-uU-RbUlArJ8bUmRL?usp=sharing#scrollTo=WANJibeUNghZ)
 # Pose
 A pose machine, in the context of computer vision and machine learning, typically refers to a system or model designed to estimate the pose of an object or person in an image or video. Pose estimation involves determining the spatial positions of key points or joints on the object or person, capturing information about its position and orientation.
-
-
+For example, in human pose estimation, a pose machine could be a model that identifies and tracks the positions of key body joints such as shoulders, elbows, hips, and knees.
+<img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://mobidev.biz/wp-content/uploads/2020/07/2d-representation-albert-einstein-body-pose.jpg">
+This information is valuable in finding key features for the person or people that are missing, using the different action recognition, and the different human-computer interactions that are availible.
 
 Pose Machine models are effective in estimating human poses from images, providing valuable information about the body's positioning and movement, which finds applications across several domains.
 # WandB
