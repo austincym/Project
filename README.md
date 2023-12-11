@@ -32,7 +32,7 @@ AlexNet is a powerful convolutional neural network (CNN) that we use as a key co
 - Identify unique facial features
 - Perform image classification
 - Enhance image recognition accuracy
-
+<https://www.mdpi.com/remotesensing/remotesensing-09-00848/article_deploy/html/images/remotesensing-09-00848-g001.png>
 Key features of AlexNet include:
 
 Deep Architecture: AlexNet consists of eight layers, including five convolutional layers followed by three fully connected layers. This depth was considered quite deep at the time of its introduction.
