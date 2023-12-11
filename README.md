@@ -9,6 +9,21 @@ In 2022, the number of missing person files in the United States equaled 546,568
 
 
 # Data Deck
+Our data deck is a curated collection of diverse datasets containing images and relevant information related to missing persons. The dataset includes:
+
+- Facial images from various sources
+- Location data
+- Time-stamped images to track movement
+- Additional contextual information
+
+- Iterative Improvement: Iterative model improvement often involves refining datasets. By collecting additional data, removing noisy or irrelevant samples, or augmenting the dataset, the model's performance can be enhanced.
+  
+- Quality of Predictions: The quality and representativeness of the dataset directly impact the quality of predictions made by machine learning models. A comprehensive dataset helps the model generalize well to new, unseen data.
+
+- A high-quality, well-curated dataset is essential for training accurate, unbiased, and reliable machine learning models. It serves as the foundation upon which models learn and make predictions, influencing their performance and real-world applicability.
+
+<img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://static01.nyt.com/images/2017/10/24/business/24ITINERARIES1/24ITINERARIES1-superJumbo.jpg"> 
+<img width="666" alt="Screen Shot 2023-11-14 at 1 17 56 PM" src="https://images.unsplash.com/photo-1461870083782-4d7b4f364728?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D&w=1000&q=80">
 
 # Alexnet Filters
 
