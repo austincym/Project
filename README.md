@@ -1,12 +1,38 @@
 # National Missing and Unidentified Person System
 <img width="254" alt="Screen Shot 2023-10-26 at 4 05 29 PM (1)" src="https://namus.nij.ojp.gov/sites/g/files/xyckuh336/files/images/2021-03/namus-logo-color.png">
 
+# Mission Statement
+To utilize AI tools and features to help find and coordinate missing persons.By combining advanced AI technologies, ethical considerations, and community collaboration, we aim to revolutionize the search for missing persons, bringing hope and closure to families and communities.
+
 
 # The Problem 
 In 2022, the number of missing person files in the United States equaled 546,568 cases. Around 90,000 a year are never found, that's almost 1 million people in the last decade. Around the world people that go missing are not always reported, so the real number is actually going to be more than what is really reported. With new technologies and more thought out ways more and more people are going missing due to the advances in soceity.
 
-# Strategy and Implementation
+# Implementation and Strategy
+Data Collection and Integration
+ - Aggregate diverse datasets including facial images, geospatial data, and contextual information from law enforcement, social media, and 
+public contributions.
+ - Implement rigorous data preprocessing, ensuring privacy protection, and standardization.
+Pose Machine Integration:
 
+Pose Machine Integration
+ - Utilize a sophisticated pose machine to enhance human pose estimation in images or videos.
+ - Enhance the accuracy of locating missing persons by analyzing body language and movements.
+AlexNet Filter for Image Recognition:
+
+AlexNet Filter for Image Recognition
+ - Implement the AlexNet architecture for robust image recognition.
+ - Train the model on a comprehensive dataset to identify facial features and patterns crucial for accurate identification.
+Feature Map Visualization:
+
+Feature Map Visualization
+ - Employ feature map visualization techniques to interpret the decision-making process of the AI models.
+ - Provide insights into the detected features, aiding in the analysis of model behavior and improving interpretability.
+WandB Integration for Experiment Tracking:
+
+Wandb Integration for Expirement Tracking
+ - Incorporate WandB for seamless experiment tracking and visualization.
+ - Monitor and compare model performance, hyperparameters, and training metrics in real-time.
 
 # Data Deck
 Our data deck is a curated collection of diverse datasets containing images and relevant information related to missing persons. The dataset includes:
