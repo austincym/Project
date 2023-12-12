@@ -42,7 +42,7 @@ Our data deck is a curated collection of diverse datasets containing images and 
 - Time-stamped images to track movement
 - Additional contextual information
 
-- Iterative Improvement: Iterative model improvement often involves refining datasets. By collecting additional data, removing noisy or irrelevant samples, or augmenting the dataset, the model's performance can be enhanced.
+- Iterative model improvement often involves refining datasets. By collecting additional data, removing noisy or irrelevant samples, or augmenting the dataset, the model's performance can be enhanced.
   
 - Quality of Predictions: The quality and representativeness of the dataset directly impact the quality of predictions made by machine learning models. A comprehensive dataset helps the model generalize well to new, unseen data.
 
